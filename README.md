@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# TWiGGZ' 360 Photo Picture
+## Taken using a Ricoh Theta 360 Camera
+### Enjoy!
 
 - Bulleted
 - List
